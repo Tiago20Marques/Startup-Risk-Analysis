@@ -32,22 +32,24 @@ It demonstrates an end-to-end data analytics process from raw data to actionable
 
 ## 📊 Key Insights from the Startup Risk Analysis
 - **Risk Distribution**
-The majority of startups fall into the Medium Risk and High Risk categories, suggesting that while extreme risk exists, most operate within a moderate risk band.
 
+The majority of startups fall into the Medium Risk and High Risk categories, suggesting that while extreme risk exists, most operate within a moderate risk band.
 Only 13% are in the Very High Risk category — but these often cluster in certain industries and regions.
 
 - **High-Risk Concentrations**
+
 Industries such as AI, EdTech and Gaming have higher average risk scores compared to others.
 
 - **Regional Risk Patterns**
-Regions like South America have a disproportionately high percentage of High and Very High Risk startups.
 
+Regions like South America have a disproportionately high percentage of High and Very High Risk startups.
 Some regions, like Asia maintain consistently low risk, potentially due to stronger ecosystems or better funding support.
 
 - **Impact of Age on Risk**
+
 Younger startups (< 4 years) are generally higher risk, but there’s a noticeable dip in risk between 9–15 years, after which the risk stabilizes or slightly increases (possibly due to market saturation or scaling challenges).
 
 - **Industry Leaders vs. Stragglers**
-The least risky industries include E-Commerce and CyberSecurity, where costs are lower and scaling is more controlled.
 
+The least risky industries include E-Commerce and CyberSecurity, where costs are lower and scaling is more controlled.
 The risk gap between industries shows potential for targeted investment strategies.
